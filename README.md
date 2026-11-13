@@ -27,20 +27,6 @@ Free fundraising benchmarks built from **113,436 funding rounds** in public SEC 
 
 ---
 
-## 📊 NYU Coursework, Rebuilt
-
-Assignments first completed in RapidMiner, rebuilt in Python and extended beyond the original scope.
-
-### 🎯 [RFM Customer Segmentation](https://github.com/mwhan99/rfm-customer-segmentation) · [Tableau dashboard](https://public.tableau.com/app/profile/meng.wen.han/viz/CustomerValueatRisk-SuperstoreRFMSegmentation/RFMDashboard)
-Segmented 793 customers into 5 marketing segments and found **$546K of revenue at risk**: lapsed high-value customers who are 14% of customers but 24% of revenue. The rebuild also fixed four errors in the original analysis.
-`Python` `pandas` `Tableau`
-
-### 🥣 [New Cereal Launch: Market Map & Segmentation](https://github.com/mwhan99/cereal-launch-segmentation)
-Used PCA on 74 cereals to find an unserved nutritious-and-satisfying position, and K-means on 800 survey responses to identify 4 consumer segments. Built a 4-question tool that assigns new customers to a segment with 87% accuracy.
-`Python` `scikit-learn` `PCA` `K-means`
-
----
-
 ## 🤝 Pro Bono Work for Real Businesses
 
 Free analytics for small businesses, using their real data.
@@ -52,6 +38,20 @@ Sourcing, pricing and channel analytics for a Tokyo-to-UK vintage bag reseller. 
 ### 🧋 [Beverage Shop Sales Analysis](https://github.com/mwhan99/beverage-shop-sales-analysis)
 POS analysis for a newly opened NYC beverage shop: weekend sales ran **26% higher**, driven by order volume, and soft-opening giveaways were half of all discounts. Findings shared with a member of the store's launch team.
 `Excel` `dashboard` `retail analytics`
+
+---
+
+## 📊 NYU Coursework, Rebuilt
+
+Assignments first completed in RapidMiner, rebuilt in Python and extended beyond the original scope.
+
+### 🎯 [RFM Customer Segmentation](https://github.com/mwhan99/rfm-customer-segmentation) · [Tableau dashboard](https://public.tableau.com/app/profile/meng.wen.han/viz/CustomerValueatRisk-SuperstoreRFMSegmentation/RFMDashboard)
+Segmented 793 customers into 5 marketing segments and found **$546K of revenue at risk**: lapsed high-value customers who are 14% of customers but 24% of revenue. The rebuild also fixed four errors in the original analysis.
+`Python` `pandas` `Tableau`
+
+### 🥣 [New Cereal Launch: Market Map & Segmentation](https://github.com/mwhan99/cereal-launch-segmentation)
+Used PCA on 74 cereals to find an unserved nutritious-and-satisfying position, and K-means on 800 survey responses to identify 4 consumer segments. Built a 4-question tool that assigns new customers to a segment with 87% accuracy.
+`Python` `scikit-learn` `PCA` `K-means`
 
 ---
 
