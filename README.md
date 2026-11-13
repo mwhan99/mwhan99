@@ -43,11 +43,15 @@ POS analysis for a newly opened NYC beverage shop: weekend sales ran **26% highe
 
 ## 📊 NYU Coursework, Rebuilt
 
-Assignments first completed in RapidMiner, rebuilt in Python and extended beyond the original scope.
+Assignments first completed in RapidMiner or as written plans, rebuilt in Python and extended beyond the original scope.
 
 ### 🎯 [RFM Customer Segmentation](https://github.com/mwhan99/rfm-customer-segmentation) · [Tableau dashboard](https://public.tableau.com/app/profile/meng.wen.han/viz/CustomerValueatRisk-SuperstoreRFMSegmentation/RFMDashboard)
 Segmented 793 customers into 5 marketing segments and found **$546K of revenue at risk**: lapsed high-value customers who are 14% of customers but 24% of revenue. The rebuild also fixed four errors in the original analysis.
 `Python` `pandas` `Tableau`
+
+### 🏦 [Debit Rewards Activation Test](https://github.com/mwhan99/debit-rewards-experiment)
+Stress-tested a 2×2×2 bank marketing experiment I'd planned: found it ran over budget, cut the test 5× with a power analysis, then analyzed simulated results. Only 3 of 8 cells cleared the +5 pt target, and a cash bonus lifted activation only when sent by postcard.
+`Python` `statsmodels` `A/B testing` `regression`
 
 ### 🥣 [New Cereal Launch: Market Map & Segmentation](https://github.com/mwhan99/cereal-launch-segmentation)
 Used PCA on 74 cereals to find an unserved nutritious-and-satisfying position, and K-means on 800 survey responses to identify 4 consumer segments. Built a 4-question tool that assigns new customers to a segment with 87% accuracy.
