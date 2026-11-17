@@ -57,6 +57,10 @@ Stress-tested a 2×2×2 bank marketing experiment I'd planned: found it ran over
 Used PCA on 74 cereals to find an unserved nutritious-and-satisfying position, and K-means on 800 survey responses to identify 4 consumer segments. Built a 4-question tool that assigns new customers to a segment with 87% accuracy.
 `Python` `scikit-learn` `PCA` `K-means`
 
+### 🏠 [Home Price Drivers: Hedonic Regression](https://github.com/mwhan99/ames-housing-regression)
+Estimated what 10 property features are worth across 1,460 Ames, Iowa home sales. A log-price model cut typical error to **$25,896** (14.4% of the average price) once 3 non-market sales were excluded, and adding neighborhood showed **about 12% of the apparent quality premium was really location**.
+`Python` `statsmodels` `regression` `sensitivity analysis`
+
 ---
 
 ## 📫 Connect
